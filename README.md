@@ -25,7 +25,7 @@ https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Markdown</li>
+  <li>Pandas</li>
   <li>Streamlit</li>
   <li>Anaconda Navigator</li>
   <li>Python</li>
