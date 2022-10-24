@@ -35,6 +35,6 @@ https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io//Jcharis/streamlit_todo_crud_app/main/app.py)
 
-ademir-crud.streamlitapp.com
+https://ademir-crud.streamlitapp.com
 
 
