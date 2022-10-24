@@ -111,7 +111,7 @@ def main():
 			delete_data(delete_by_task_name)
 			st.warning("Deleted: '{}'".format(delete_by_task_name))
 
-		with st.beta_expander("Updated Data"):
+		with st.expander("Updated Data"):
 			result = view_all_data()
 			# st.write(result)
 			clean_df = pd.DataFrame(result,columns=["Task","Status","Date"])
