@@ -1,6 +1,6 @@
-# A Simple Blog
+# A Example of the CRUD
 
-In this example we will be building a simple CRUD blog.
+In this example we will be building a simple CRUD.
 #### CRUD:
 + Create
 + Read
@@ -29,7 +29,7 @@ https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app
   <li>Streamlit</li>
   <li>Anaconda Navigator</li>
   <li>Python</li>
-  <li>sqlite3</li>
+  <li>Sqlite3</li>
 </ul>
 
 
